@@ -1,0 +1,13 @@
+.App-content {
+  margin: 30px;
+  flex-direction: column;
+}
+
+.App-grid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px auto;
+  padding: 20px;
+  width: 85%;
+}
